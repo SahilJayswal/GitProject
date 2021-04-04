@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 HotFix Branch commit 1
-=======
-Integration Branch commit 2
->>>>>>> IntegrationBranch
+
+
